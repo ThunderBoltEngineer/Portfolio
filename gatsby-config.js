@@ -5,7 +5,7 @@ module.exports = {
     title: 'Jason Wang',
     description:
       'Jason Wang is a software engineer who specializes in building full-stack software solutions.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://thunderboltengineer.github.io/portfolio', // No trailing slash allowed!
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
