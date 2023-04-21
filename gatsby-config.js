@@ -154,4 +154,5 @@ module.exports = {
       },
     },
   ],
+  pathPrefix: '/portfolio',
 };
